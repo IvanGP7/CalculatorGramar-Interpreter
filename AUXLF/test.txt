@@ -1,0 +1,12 @@
+x = 5
+y = 10
+z = x + y
+result = z * 2
+
+a = 3.5
+a = h + a
+h = a + h
+b = a + 4.2
+c = b / 2
+
+d = (x + y) * (a - b)

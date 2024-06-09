@@ -1,0 +1,14 @@
+p = 7
+q = 12
+r = p - q
+resultA = r + p * q
+
+m = 8.5
+n = m * 3.2
+o = n / 4
+resultB = (m + n) - o
+
+x = 4
+y = x * 2
+z = y + x
+resultC = z / (x + y)
